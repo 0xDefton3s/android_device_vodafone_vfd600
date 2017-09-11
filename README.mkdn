@@ -1,0 +1,19 @@
+Copyright (C) 2017 The LineageOS Project
+
+Device Tree for Vodafone Smart Style 7
+============================================================
+Basic   | Specifications
+-------:|:-------------------------
+CPU     | Quad-Core 1.1 GHZ ARM Cortex-A7 1.1GHz
+CHIPSET | Qualcomm MSM8909 Snapdragon 210
+GPU     | Adreno 304
+Memory  | 1 GB
+Shipped Android Version | 6.0.1
+Storage | 8 GB
+MicroSD | Up to 128 GB
+Battery | 2540 mAh (non-removable)
+Display | 720 x 1280 pixels, 5.0"
+Rear Camera  | 8.0 MP
+Front Camera | 5.0 MP
+
+![Vodafone Smart Style 7](http://cdn.epey.com/resim/56475/m_vodafone-smart-style-7-4.png "Vodafone Smart Style 7")
